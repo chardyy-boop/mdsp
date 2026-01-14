@@ -1273,6 +1273,86 @@ const questions = [
         question: "255. A triple thread worm has a pitch diameter of 3 inches. The wheel has 25 teeth and a pitch diameter of 5 inches. Material for both the worm and the wheel is of phosphor bronze. Compute the helix angle (Tanα)",
         options: ["0.20", "0.30", "0.40", "14"],
         answer: 0
+    },
+    {
+        question: "256. A cylinder tank with 10” inside diameter contains oxygen gas at 2500 psi. Calculate the required wall thickness in (mm) under stress of 28 000 psi",
+        options: ["11.34 mm", "10.24 mm", "12.44 mm", "10.54 mm"],
+        answer: 0
+    },
+    {
+        question: "257. The process of peening the joint portion immediately after the welding greatly improves the fusion structures avoids possible cracking, avoids possible distortion etc. Peening can also _______process at the same time",
+        options: ["tempering", "martampering", "normalizing", "annealing"],
+        answer: 0
+    },
+    {
+        question: "258. The distance between rivet center nearest each other in adjacent rows is called ______",
+        options: ["pitch", "back pitch", "margin", "diagonal pitch"],
+        answer: 3
+    },
+    {
+        question: "259. A major alloy in tool steel",
+        options: ["Cr", "Fen", "Cobalt", "Mn"],
+        answer: 0
+    },
+    {
+        question: "260. A rule of thumb the speed limit of flywheel rim speed should be 6000 fpm for cast iron material and for cast steel flywheel rim at _______ meters/min",
+        options: ["3050", "4500", "7000", "10000"],
+        answer: 3
+    },
+    {
+        question: "261. Should two equal and opposite collinear forces is added to the forces already in equilibrium, which of the following statement is true?",
+        options: ["Unbalanced moment is maintained", "Equilibrium is maintained", "Equilibrium is disturbed", "it creates an unbalanced situation"],
+        answer: 1
+    },
+    {
+        question: "262. A pair of gear with gear ratio of 3 and 60 gear teeth of 14 ½ degree full depth tooth. The diametral pitch is 10. Compute the tooth thickness on the pitch circle",
+        options: ["0.570 inch", "0.352 inch", "0.157 inch", "0.142 inch"],
+        answer: 2
+    },
+    {
+        question: "263. __________ addition imparts resistance to atmospheric corrosion in steel etc.",
+        options: ["aluminum bronze", "manganese", "copper", "bronze"],
+        answer: 2
+    },
+    {
+        question: "264. The width of a tooth space exceeds the thickness of each of the engaging tooth on the pitch circle________",
+        options: ["allowance", "bottom land", "top land", "backlash"],
+        answer: 3
+    },
+    {
+        question: "265. Distance measured perpendicular to the axis between the crest of the thread and the root of its mating thread in a thread assembly of screws",
+        options: ["tolerance class", "crest truncation", "crest clearance", "tolerance limit"],
+        answer: 2
+    },
+    {
+        question: "266. Percentage of cut on the return stroke of hacksaw blade is________",
+        options: ["21", "3 %", "1 %", "0 %"],
+        answer: 3
+    },
+    {
+        question: "267. Compute the angle required in degrees, for the road to be slanted to prevent an automobile travelling at 25 m/s from tending to slip. The radius of curvature is 200 m.",
+        options: ["21", "14", "18", "16"],
+        answer: 2
+    },
+    {
+        question: "268. __________is also called strain hardening",
+        options: ["work hardening", "quenching", "annealing", "normalizing"],
+        answer: 0
+    },
+    {
+        question: "269. Imaginary formed by the intersection of the flanks of a thread when extended is called_______",
+        options: ["Sharp Crest", "Sharp root", "Root apex", "All of these"],
+        answer: 3
+    },
+    {
+        question: "270. Compute the maximum deflection of a 20 coils helical spring having a load of 75 kgs. The spring is a square/ground ends with modulus of elasticity in shear of 79.84 GPa outside diameter of 101.6 mm wire diameter of a 9 525 mm",
+        options: ["140.7 mm", "112.7 mm", "15.17 mm", "126.7 mm"],
+        answer: 3
+    },
+    {
+        question: "271. _______forces means when their lines of action can be extended to meet to one point",
+        options: ["concurrent", "centroids", "collinear", "resultants"],
+        answer: 0
     }
 ];
 
