@@ -783,6 +783,496 @@ const questions = [
         question: "157. Principal stresses occur on these plane",
         options: ["which are subjected to ultimate tension", "which are subjected to maximum compression", "The shearing stress is zero", "which are 45° apart"],
         answer: 2
+    },
+    {
+        question: "158. The property of material wherein the content is continuously distributed through its entire mass",
+        options: ["plasticity", "malleability", "homogeneity", "all of these"],
+        answer: 2
+    },
+    {
+        question: "159. The properties of metal to withstand loads without breaking down is",
+        options: ["elasticity", "strength", "plasticity", "strain"],
+        answer: 1
+    },
+    {
+        question: "160. Shafts readily available in the market are made in many ways and wide variety of material composition. It is likely be cold drawn carbon steel in size smaller than __________inches diameter",
+        options: ["3.75", "4", "5", "5 ½"],
+        answer: 0
+    },
+    {
+        question: "161. Plain carbon steel standard designation SAE________",
+        options: ["6xxx", "13xx", "10xx", "2xxx"],
+        answer: 2
+    },
+    {
+        question: "162. If the inertia is 90 lb. ft2 and the speed of the driven shaft is to be increased from 0 to 2500 rpm in 5 seconds, shaft material is of SAE 4140 with yield strength of 110000 lbs./in2, find the clutch starting torque in in. lb ft.",
+        options: ["159", "128", "146", "191"],
+        answer: 2
+    },
+    {
+        question: "163. The rigidity of polymer can be increased by",
+        options: ["fumace melting", "normalizing", "crystallization", "shot opening"],
+        answer: 2
+    },
+    {
+        question: "164. The difference between cast steel and cast iron",
+        options: ["all of these", "cast steel has usually less than 1 %", "while cast iron has 2% or 3.6% carbon range", "cast iron has lower strength more brittle and has lower ductility than cast steel"],
+        answer: 3
+    },
+    {
+        question: "165. It is a general practice to use the following allowable stresses 4000 psi for maintransmitting shaft and 8500 psi for small short shafts and counter shaft . for lineshaft carrying pulley it is______psi",
+        options: ["7800", "7000", "6000", "6500"],
+        answer: 2
+    },
+    {
+        question: "166. How many 5/16 inch holes can be punch in one motion in a steel plate made of SAE 1010 steel 7/16 inch thick using a force of 55 tons. The ultimate strength for shear is 50 ksi and use 2 factor of safety",
+        options: ["5.8", "3.7", "5", "6.5"],
+        answer: 2
+    },
+    {
+        question: "167. Drilling machine cannot do-",
+        options: ["reaming", "spot facing", "lapping", "broaching"],
+        answer: 1
+    },
+    {
+        question: "168. Material charges in foundry melting operation are composed of",
+        options: ["limestone, foundry coke and silica sand", "steel scrap alloys and charcoal/foundry coke", "iron ore, quartz and charcoal", "scrap wood alloys and limestone"],
+        answer: 0
+    },
+    {
+        question: "169. ________is a work-supporting device which is bolted to the saddle of the lathe machine. It travels with the cutting tool it is a prevention of the springing away of the workpiece from cutting tools",
+        options: ["rubber-flex collets", "tool post", "follower rest", "carriage stop"],
+        answer: 2
+    },
+    {
+        question: "170. Almost always the soldering materials are a combination of the following alloys",
+        options: ["all of these", "lead & tin", "tin & antimony", "lead & antimony"],
+        answer: 1
+    },
+    {
+        question: "171. The most popular of all soldering materials in use has composition of.",
+        options: ["45/55% tin & lead", "50/50% tin & lead", "all of these", "60/40% tin & lead"],
+        answer: 1
+    },
+    {
+        question: "172. The relative strength of a butt welding could be safety assumed as____% efficiency.",
+        options: ["95", "98", "90", "92"],
+        answer: 2
+    },
+    {
+        question: "173. Which of the following raw materials are used in the foundry molding operation?",
+        options: ["silica sand, bentonite, flour/paste water", "silica sand paste,graphite electrode", "silica sand and paste", "silica sand, linseed oil, flour"],
+        answer: 0
+    },
+    {
+        question: "174. The following are parts of a micrometer caliper except for",
+        options: ["thimble", "head screw", "spindle", "anvil"],
+        answer: 1
+    },
+    {
+        question: "175. To avoid brittleness of weld or the residual stress in the welding it is normally stress relieved of___",
+        options: ["normalizing", "tempering", "flame hardening", "annealing"],
+        answer: 1
+    },
+    {
+        question: "176. Steel with certain % of carbon maximum can readily be welded by all process and the resulting strength of the portion welded is as strong as the base material",
+        options: ["0.15% C max", "0.35 % C max", "0.25 % C max", "0.30%C max"],
+        answer: 3
+    },
+    {
+        question: "177. A kilowatt is equal to_________",
+        options: ["8851.2 in-lb/sec.", "1140 joule/sec.", "57 BTU/min", "44.200 ft.-lb./min."],
+        answer: 2
+    },
+    {
+        question: "178. Molybdenum-chromium-nickel steel designation",
+        options: ["SAE48xx", "SAE43xx", "SAE56xx", "SAE46xx"],
+        answer: 1
+    },
+    {
+        question: "179. Single forces which produces the same effect upon a mass replacing two or more forces acting together is called",
+        options: ["vector", "resultant", "component of forces", "resolution"],
+        answer: 1
+    },
+    {
+        question: "180. Permissible variation of the manufactured/machined dimension is called ___________",
+        options: ["intolerance fits", "deviation", "allowance", "tolerance"],
+        answer: 3
+    },
+    {
+        question: "181. Peculiar strength of the metal to resist being crushed",
+        options: ["shear strength", "ultimate strength", "compressive strength", "elastic limit"],
+        answer: 2
+    },
+    {
+        question: "182. What pressure is required for punching a hole 2” dia thru ¼” steel plates?",
+        options: ["40 tons", "50 tons", "45 tons", "35 tons"],
+        answer: 0
+    },
+    {
+        question: "183. What is the working strength of a 2” bolt which is screwed up tightly in a packed joint when the allowable working stress is 12,000 psi",
+        options: ["20.4 ksi", "22.4 ksi", "23.4 ksi", "18 ksi"],
+        answer: 0
+    },
+    {
+        question: "184. Determine the bursting steam pressure of a steel shell with diameter of 10 inches and made of ¼ thick steel plate. The joint efficiency is at 70% and the tensile strength is 60 ksi",
+        options: ["4200 psi", "10.5 ksi", "42.8 ksi", "8500 psi"],
+        answer: 0
+    },
+    {
+        question: "185. Commonly used by steel melter as deoxidizer because of its easy availability and cheap price",
+        options: ["silicon", "aluminum", "zinc", "manganese"],
+        answer: 1
+    },
+    {
+        question: "186. Curve formed by the path of a point on a straight line as it rolls along a convex base curve. The base curve is usually a circle and generally used as the profile of gear tooth.",
+        options: ["axial plane", "involute", "arc or recess", "arc of action"],
+        answer: 1
+    },
+    {
+        question: "187. Resultant of two or more component forces is called___________",
+        options: ["composition of forces", "resultant", "component", "collinear of forces"],
+        answer: 0
+    },
+    {
+        question: "188. A material having a high electrical resistance and should not be used for conductor of electric current",
+        options: ["alloyed magnesium", "silicon base alloy", "nickel", "zinc"],
+        answer: 2
+    },
+    {
+        question: "189. A radian is equal to_________",
+        options: ["57.020°", "57.706°", "57.296°", "57.190°"],
+        answer: 2
+    },
+    {
+        question: "190. It improves red hardness of steel",
+        options: ["silicon", "lead", "cobalt", "manganese"],
+        answer: 2
+    },
+    {
+        question: "191. Designated pipe color used in communication",
+        options: ["silver gray", "aluminum gray", "bare", "white"],
+        answer: 3
+    },
+    {
+        question: "192. The design stress and factor of safety are related in the following manner",
+        options: ["design stress = ultimate stress/ factor of safety", "ultimate stress = factor of safety / design stress plus concentration factor", "factor of safety = design stress / ultimate stress", "design stress = factor of safety / times stress concentration factor"],
+        answer: 0
+    },
+    {
+        question: "193. Not adaptable to welding due to low tensile strength and poor ductility etc",
+        options: ["copper parts", "cast iron materials", "aluminum parts", "bronze parts"],
+        answer: 2
+    },
+    {
+        question: "194. Bearing surface that completely surrounds the journal is also called_______",
+        options: ["offset bearing", "full bearing", "centrally loaded bearing", "babbit bearing"],
+        answer: 1
+    },
+    {
+        question: "195. The purpose of lubrication is as mentioned except",
+        options: ["to lighten the load", "prevent corrosion/oxidation", "prevent adhesion", "cool the moving elements"],
+        answer: 0
+    },
+    {
+        question: "196. Tools usually used in wood pattern making in foundry shop.",
+        options: ["saws and chisels", "band saw", "knives and drills", "drill machine"],
+        answer: 0
+    },
+    {
+        question: "197. ________is a plane perpendicular to the axial plane and to the pitch plane in gears the parallel axes; and the plane of rotating coincide",
+        options: ["tangent plane", "straight plane", "transverse", "reference plane"],
+        answer: 2
+    },
+    {
+        question: "198. A 36 tooth pinion with a turning speed of 300 rpm drives 120 tooth gear of 14 ½ degrees involute full depth pressure angle . What would be the speed of the driven gear?",
+        options: ["1000 rpm", "100 rpm", "90 rpm", "140 rpm"],
+        answer: 2
+    },
+    {
+        question: "199. Several force which can be combined is called.",
+        options: ["resultants", "composition of forces", "components", "collinear forces"],
+        answer: 2
+    },
+    {
+        question: "200. The surface along the fillet curves or between the fillets radius of the two adjacent tooth or a gear",
+        options: ["bottom land", "flank", "fillet", "top land"],
+        answer: 0
+    },
+    {
+        question: "201. Ideal herringbone gear helix is in the range of__________",
+        options: ["30 to 45", "35 to 50", "25 to 30", "15 to 20"],
+        answer: 0
+    },
+    {
+        question: "202. The lack of backlash in a spur gear design/operation may result to __________",
+        options: ["overloading", "jamming", "all of these", "overheating"],
+        answer: 2
+    },
+    {
+        question: "203. The distance from a point on a screw thread to a corresponding point on the next thread measure along the axis",
+        options: ["flank", "lead", "crest", "pitch"],
+        answer: 3
+    },
+    {
+        question: "204. As recommended the center to center distance between sprockets should not be less than ____ times the bigger sprocket",
+        options: ["2.216", "1 3/4", "1 1/2", "2.59"],
+        answer: 2
+    },
+    {
+        question: "205. Machine shop instrument for checking the flatness of plane surfaces to 10ths of thousandths of a centimeter",
+        options: ["blade type micrometer", "dial caliper", "planimeter", "micrometer"],
+        answer: 2
+    },
+    {
+        question: "206. Molybdenum steel standard designation SAE___________",
+        options: ["88xx", "48xx", "40xx", "46xx"],
+        answer: 2
+    },
+    {
+        question: "207. Determine the minimum mean diameter of a taper pin for use to fix a lever to a shaft if it is transmit a max torque of 700 in-lbs. The shaft diameter is 2 inches and the material allowable stress is 15000 psi. Use factor of safety of 2.",
+        options: ["7.0 mm", "7.2 mm", "5.2 mm", "6.2 mm"],
+        answer: 3
+    },
+    {
+        question: "208. Recommended design practice for steel lineshafting to limit the linear deflection to ________inch/foot of length (maximum)",
+        options: ["0.020", "0.010", "0.012", "0.15"],
+        answer: 1
+    },
+    {
+        question: "209. A link has a load factor of 0.8 the surface factor of 0.8 ; the surface factor is 0.92 and the endurance strength is 28000 psi. Compute the alternating stress of the link if it is subjected to a reversing load. Assume a factor of safety of 3.",
+        options: ["8150", "10920", "9,333", "7260"],
+        answer: 2
+    },
+    {
+        question: "210. Big chain sprocket wheels are designed with spokes/arms are generally elliptical in cross section with major axis _______times the minor axis",
+        options: ["2", "2 ½", "1 ½", "3"],
+        answer: 0
+    },
+    {
+        question: "211. For acceptable ideal range of tightness which may result from the application of specific combination of allowances and tolerances.",
+        options: ["allowance limit", "tolerance limit", "interference", "Fit"],
+        answer: 3
+    },
+    {
+        question: "212. Determine the safe wall thickness of a 30 inches steel tank with internal pressure of 7.82 MPa. The yield stress of material is at 275.48 MPa. The factor of safety to use is 2.0.",
+        options: ["¾ inch", "232.6 cm", "21.6 mm", "5/8 inch"],
+        answer: 2
+    },
+    {
+        question: "213. The recommended center distance of sprockets should not be less than _________ times the diameter of bigger sprocket",
+        options: ["1.75", "2", "1 ½", "2 ¼"],
+        answer: 2
+    },
+    {
+        question: "214. An occupant moves toward the center of a merry go around at 6 meters/sec. If the merry go round rotates at 6 rev./min. Compute the acceleration component of the occupant normal to the radius",
+        options: ["6.79", "8.29", "7.54", "6.11"],
+        answer: 2
+    },
+    {
+        question: "215. The absolute viscosity of the fluid divided by its density expressed in same term of units is also called_________",
+        options: ["centistokes", "kinematic viscosity", "Petroffs equation", "light petroleum oil"],
+        answer: 1
+    },
+    {
+        question: "216. Find the tooth thickness on the tooth circle of a 20 degree full depth in volute tooth having a diametral pitch of 3, circular pitch of 1.0472 and whole depth of tooth at 0.60.",
+        options: ["10.7 mm", "13.2 mm", "10.1 mm", "7.9 mm"],
+        answer: 1
+    },
+    {
+        question: "217. It is required that pipes bigger than ________mm. should not be screwed but flanged",
+        options: ["76.2", "63.5", "2 ¼ inch", "68.5"],
+        answer: 1
+    },
+    {
+        question: "218. An eyebolt is lifting a block weighing 350 lbs. The eyebolt is of SAE C 1040 material with Su = 67 ksi and S2 = 55 ksi what is the stress area (in inches square) of the bolt if it is under the unified coarse series thread?",
+        options: ["1341", "0.1134", "0991", "1043"],
+        answer: 1
+    },
+    {
+        question: "219. Formed by the intersection of the adjacent flanks of adjacent threads when extended is called.",
+        options: ["crest apex", "all of these", "sharp root", "sharp crest"],
+        answer: 2
+    },
+    {
+        question: "220. In designing the spoke or wheel arm of a flywheel it is ideal to consider that the cross-sectional area of the spoke at rim side should not be less than ________of the cross area at the hub side",
+        options: ["80%", "2/3", "90%", "3/8"],
+        answer: 1
+    },
+    {
+        question: "221. Find the number of active coils of a No. 8 wire Helical Spring with index of 6, steady load with spring rate of 42.5 lb/in . Maximum allowable stress is 60 ksi",
+        options: ["25", "28", "29", "22"],
+        answer: 0
+    },
+    {
+        question: "222. The cutting up to 70% is best for drilling extremely hard metals and for soft materials ______degrees may be applied",
+        options: ["60", "45", "40", "48"],
+        answer: 2
+    },
+    {
+        question: "223. _________is the process necessary to reduce the brittleness in alloy steel",
+        options: ["martempering", "carburizing", "normalizing", "tempering"],
+        answer: 3
+    },
+    {
+        question: "224. The total machinery weight plus the foundation weight should be well distributed in the corresponding soil area which is enough to cause a bearing stress within the safe bearing capacity of the soil with a factor of safety of_________",
+        options: ["4.5", "3", "4.2", "5.0"],
+        answer: 3
+    },
+    {
+        question: "225. The total weight of 2 steel plates size ¾” x 3’ x 20 ft is",
+        options: ["1838 lbs", "1698 lbs.", "3676 lbs.", "1848 lbs."],
+        answer: 0
+    },
+    {
+        question: "226. Steel springs are made of high carbon steel heat treated and/or cold worked to a high elastic limit to get good elastic deflection. In general the carbon content is at _________.",
+        options: ["0.40% or more", "0.65% or more", "0.5% or more", "0.66% or more"],
+        answer: 2
+    },
+    {
+        question: "227. In a chain drive design for large speed reduction it is preferable to use a double reduction or compound type of transmission instead of single two sprockets transmission. Drives should type be so designed that the angle between two tight chain strand does not exceed_____degrees.",
+        options: ["45", "60", "55", "90"],
+        answer: 0
+    },
+    {
+        question: "228. Method of finishing/shaping a machine part of exceptionally high carbon or high chromium steel parts (orveryhard material)",
+        options: ["using oxygen lanching", "using abrasive grinding", "machining using carbine insert", "machining using high speed tool steel"],
+        answer: 1
+    },
+    {
+        question: "229. Alloy steel used in manufacturing bolts studs tubings subjected to torsional stresses",
+        options: ["AISI 3141", "AISI 2330", "AISI4830", "AISI 4310"],
+        answer: 1
+    },
+    {
+        question: "230. Which of the following is not a viscoelastic material?",
+        options: ["Teflon", "plastic", "all of these", "metal"],
+        answer: 3
+    },
+    {
+        question: "231. A resulting force that replace two or more forces acting together",
+        options: ["vector", "couple", "resultant", "equilibrant"],
+        answer: 2
+    },
+    {
+        question: "232. Stress relieving is also_________for the purpose of reducing the internal stresses of steel material/metal",
+        options: ["tempering", "normalizing", "all of these", "annealing"],
+        answer: 0
+    },
+    {
+        question: "233. Matensite (stainless steel) contains 4 to 26% Cr. And a maximum of ______% nickel",
+        options: ["2.5", "3.25", "3.5", "2.0"],
+        answer: 0
+    },
+    {
+        question: "234. Compute the deflection of a 18 coils helical soring having a load of 100 kgs. The modulus of elasticity in shear of spring is 96.62 GPa, OD of 9 256 cm and with diameter of 9 525 mm. The spring is square and ground ends.",
+        options: ["9 mm", "101 mm", "112 mm", "14 mm"],
+        answer: 1
+    },
+    {
+        question: "235. A flanged bolt coupling has ten (10) steel 25.4 mm diameter bolts evenly tighten around a 415 mm bolt circle. Determine the torque capacity of the connection if the allowable shearing stress in the bolt is 50 MN/m2",
+        options: ["59.95 KN-m", "52.6 KN-m", "46.15 KN-m", "43.8 KN-m"],
+        answer: 1
+    },
+    {
+        question: "236. The material that can cut/wear hardest substance subjected to:",
+        options: ["carbide", "abrasive", "tungsten", "vanadium"],
+        answer: 1
+    },
+    {
+        question: "237. A ridge of uniform section in the form of a helix cut around the circumference of a cylinder and advancing along the axis",
+        options: ["thread roots", "helix thread", "screw threads", "chamfers"],
+        answer: 2
+    },
+    {
+        question: "238. Cast iron flywheels are commonly designed with factor of safety of",
+        options: ["10 to 13", "10 to 12", "10 to 14", "8 to 13"],
+        answer: 0
+    },
+    {
+        question: "239. Class of material exhibiting decreased electrical conductivity with increasing temperature",
+        options: ["aluminum", "p-type semiconductors", "metals", "n-type semiconductors"],
+        answer: 2
+    },
+    {
+        question: "240. The welding made along the edges of two parallel plates is called ______",
+        options: ["groove joint", "fillet joint", "edge joint", "corner joint"],
+        answer: 2
+    },
+    {
+        question: "241. Not part and in fact should not be used in the steel melting process",
+        options: ["coke", "silicon", "zinc", "aluminum"],
+        answer: 0
+    },
+    {
+        question: "242. Rule of thumb in calculating the Equipment foundation mass should be____times the weight of the machinery it is supposed to support",
+        options: ["3-5", "3-6", "3-9", "2-4"],
+        answer: 0
+    },
+    {
+        question: "243. The strength of non-ferrous alloys is at maximum at room temperature while that of ferrous metal has a maximum strength at_______°F",
+        options: ["400", "1200", "450", "350"],
+        answer: 0
+    },
+    {
+        question: "244. A 76.2 mm diameter shafting of SAE 1040 grade cold rolled, having a yield point of 50 ksi and with a ¾ x ¾ x 5 inches key. Compute the minimum yield point in the key in order to transmit the torque of the shaft. The factor of safety to used is 2 and Sys=0.5Sy.",
+        options: ["39.120 Ksi", "42.130 Ksi", "279.20 Ksi", "47.120 Ksi"],
+        answer: 3
+    },
+    {
+        question: "245. The ratio of stress acting on an elastic substance to the decrease in volume per unit volume",
+        options: ["bulk modulus", "modules of resilience", "elastic limit", "modules of elasticity"],
+        answer: 0
+    },
+    {
+        question: "246. The normal helix angles in helical gear is recommended in the range of ______degrees.",
+        options: ["less than 18", "20 to 35", "15 to 25", "20 to 30"],
+        answer: 2
+    },
+    {
+        question: "247. Type of bolt commonly used in the construction that is threaded in both ends",
+        options: ["stud bolt", "acne threaded bolts", "hex bolt", "square threaded bolts"],
+        answer: 0
+    },
+    {
+        question: "248. It is rigid piece which serves to transmit force from a piece another piece or to cause/ control motion",
+        options: ["follower", "crank", "cam motion", "link"],
+        answer: 3
+    },
+    {
+        question: "249. A 20 kgs. cast iron piece rest on a plain horizontal aluminum surface. To move the object it needs a force of 7 lbs. The density of AI is 0.098 lb/in3 and iron is 0.260 lb/in3",
+        options: ["0.172", "0.186", "1.601", "0.160"],
+        answer: 3
+    },
+    {
+        question: "250. Iron based alloy containing 9-16% chromium",
+        options: ["Mn Hadfield steel", "chrome-moly steel", "stainless steel", "high chrome steel"],
+        answer: 2
+    },
+    {
+        question: "251. Shafting up to 3 inches in diameter is usually made from cold rolled steel and the common biggest diameter of cold rolled steel is____",
+        options: ["4 ¼ inches", "6 7/8 inches", "6 ¾ inches", "5 inches"],
+        answer: 3
+    },
+    {
+        question: "252. It is ideal for maximum quietness in sprockets drive operation to choose _____ or more teeth",
+        options: ["24", "18", "27", "21"],
+        answer: 2
+    },
+    {
+        question: "253. All associated with standard material specification except",
+        options: ["American Iron and Steel Institute", "Society of Automotive Engineers", "Southeast Asia Iron and Steel Institute", "American Society for Testing Materials"],
+        answer: 2
+    },
+    {
+        question: "254. For stable equipment foundation the total combined engine driven equipment and foundation center of gravity must be kept below the foundation’s too that usually about______ times the usual total combined weight of the machinery it is supposed to support.",
+        options: ["3 to 4", "3 to 7", "2 to 4", "3 to 5"],
+        answer: 3
+    },
+    {
+        question: "255. A triple thread worm has a pitch diameter of 3 inches. The wheel has 25 teeth and a pitch diameter of 5 inches. Material for both the worm and the wheel is of phosphor bronze. Compute the helix angle (Tanα)",
+        options: ["0.20", "0.30", "0.40", "14"],
+        answer: 0
     }
 ];
 
