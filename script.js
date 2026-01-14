@@ -608,6 +608,181 @@ const questions = [
         question: "122. Difference between maximum material limits of mating parts . Or it is a minimum clearance or maximum interference between parts",
         options: ["tolerance", "fits", "variance", "allowance"],
         answer: 3
+    },
+    {
+        question: "123. The changes in shape or geometry of the body due to action of a force on it is called deformation or _____",
+        options: ["shear stresses", "stresses", "compressive stress", "strains"],
+        answer: 3
+    },
+    {
+        question: "124. For an evenly distributed and uniform wear on each meshing gear tooth, the ideal design practice is to consider a______________",
+        options: ["wear resistance alloy addition to tooth gears", "heat treatment of the gears", "hardening of each tooth", "hunting tooth addition"],
+        answer: 3
+    },
+    {
+        question: "125. The reciprocal of a diametral pitch or the ratio of the pitch diameter to the no. of teeth",
+        options: ["lead", "involute", "module", "clearance"],
+        answer: 2
+    },
+    {
+        question: "126. Ability to resist deformation under stress",
+        options: ["plasticity", "all of these", "stiffness", "toughness"],
+        answer: 2
+    },
+    {
+        question: "127. Flat leather belting not recommended for used in a speed in excess of____fpm.",
+        options: ["3600", "4800", "6000", "all of these"],
+        answer: 2
+    },
+    {
+        question: "128. The angle included between the sides of the thread measured in an axial plane in a screw thread",
+        options: ["angle of thread", "Angle between thread or 40", "Helix angle thread", "Half angle thread or 20°"],
+        answer: 0
+    },
+    {
+        question: "129. An elastic body whose primary function is to deflect under load",
+        options: ["clutch", "stopper", "brake", "spring"],
+        answer: 3
+    },
+    {
+        question: "130. Determine the estimated weight of a ¾” x 6’ x 20’ steel plate",
+        options: ["1809 kgs", "1490 kgs", "1709 kgs", "1666 kgs."],
+        answer: 3
+    },
+    {
+        question: "131. Steel plates allowable tensile strength",
+        options: ["396.41 N/m2", "296.12 N/m2", "379.31 N/m2", "310.11 N/m2"],
+        answer: 0
+    },
+    {
+        question: "132. Poisson’s Ratio is the ratio of",
+        options: ["elastic limit to yield strength", "lateral deformation to the longitudinal deformation", "shear strain to unit strain", "elastic limit to shear strength"],
+        answer: 1
+    },
+    {
+        question: "133. Manganese steel standard designation, SAE_______",
+        options: ["13xx", "10xx", "11xx", "8xx"],
+        answer: 0
+    },
+    {
+        question: "134. One of these materials is not a structural steel?",
+        options: ["low carbon steel", "tool and die steel", "stainless steel", "medium carbon steel"],
+        answer: 1
+    },
+    {
+        question: "135. Determine the torque received by the motor shaft running at 4250 rpm. Transmitting 11 Hp, through a 10 in diameter 20° involute gear. The shaft is supported by ball bearings at both ends and the gear is fixed at the middle of 8” shaft length",
+        options: ["163 in lb.", "167 in. lb", "132 in. lb.", "138 in. lb."],
+        answer: 0
+    },
+    {
+        question: "136. The ratio of moment of inertia on a cross-section of a beam to this section modulus is",
+        options: ["a measure of distance", "equal to the radius of gyration and compression", "multiplied by the bending moment of inertia to determine the yield stress", "equal to the area of the cross-section and tension"],
+        answer: 0
+    },
+    {
+        question: "137. The SAE 2340 shafting contain___________% Nickel",
+        options: ["3.85 Ni", "4% Ni", "3.25 to 3.75 % Ni", "3.84% Ni"],
+        answer: 2
+    },
+    {
+        question: "138. Chromium steel standard designation SAE___________",
+        options: ["92xx", "5xxx", "3xxx", "11xx"],
+        answer: 1
+    },
+    {
+        question: "139. Alloy that improves strength of steel at high temperature application",
+        options: ["aluminum", "manganese", "silicon", "chromium"],
+        answer: 3
+    },
+    {
+        question: "140. When an air entraintment agent is put into a concrete mix",
+        options: ["the water/cement ratio must be reduced", "the strength will decrease", "minimal effect", "the strength will suffer up to 50%"],
+        answer: 1
+    },
+    {
+        question: "141. In general, alloys with high nickel content retain toughness to quiet low temperatures up to ______ oF.",
+        options: ["-380", "-400", "-260", "-320"],
+        answer: 3
+    },
+    {
+        question: "142. The differential of the shear equation is the ______ .",
+        options: ["deflection of the beam", "comprehensive strength of the beam", "tensile strength of beam", "load on the beam"],
+        answer: 3
+    },
+    {
+        question: "143. It is recommended not to have a direct drive between driven and drive sprockets if the ratio of their teeth exceeds _______. Use 2 or more step combination.",
+        options: ["10 times", "8 times", "5 times", "6 times"],
+        answer: 1
+    },
+    {
+        question: "144. The length of the hub should not be made lesser than the face width of the gear. Hub lengths usually vary from 1 25D to 2D where d is the shaft diameter. The reasonable diameter of steel hub should be-",
+        options: ["2D", "1.8 D", "1.55 D", "1.20 D"],
+        answer: 1
+    },
+    {
+        question: "145. Length of contact between two mating parts in a screw and nut threads measured axially is termed______.",
+        options: ["Length of Engagement", "Axis of contact", "Arc of contacts", "Depth of Engagement"],
+        answer: 0
+    },
+    {
+        question: "146. The sum of their addendums and dedendums",
+        options: ["whole depth", "full depth", "width of space", "working depth"],
+        answer: 0
+    },
+    {
+        question: "147. Stresses that are independent of loads is called__________",
+        options: ["working stress", "residual stresses", "simple stress", "combined stress"],
+        answer: 1
+    },
+    {
+        question: "148. Material having a high electrical resistance and should not be used as conductor of electrical current",
+        options: ["nickel", "aluminum oxide", "silicon base alloys", "iron oxide"],
+        answer: 0
+    },
+    {
+        question: "149. The best materials for brake drums is______.",
+        options: ["aluminum", "cast iron", "steel material", "wrought iron"],
+        answer: 1
+    },
+    {
+        question: "150. The alloy materials used in the production of metal working tools",
+        options: ["titanium, phosphorous", "tungsten, silicon, hadfield mn", "vanadium, chromium, molybdenum", "high carbon steel"],
+        answer: 3
+    },
+    {
+        question: "151. Torsional deflection is a significant consideration in the design of shaft and the limit should be in the range of_____________degree/foot of length",
+        options: ["0.4 to 1", "0.1 to 1", "0.08 to 1", "0.6 to 1"],
+        answer: 2
+    },
+    {
+        question: "152. If the pitch of a screw is 2/9 find the thread per inch",
+        options: ["0.34", "4.5", "5.4", "17"],
+        answer: 1
+    },
+    {
+        question: "153. The property that characterizes a material’s ability to be drawn into a wire",
+        options: ["tensile strength", "ductility", "endurance limit", "thermal conductivity"],
+        answer: 1
+    },
+    {
+        question: "154. For steel shafting design in an average condition the maximum distance in feet between bearing to avoid excessive linear deflection is by formulas- L=8.95 3 2D or 8.95 D2/3 for shaft subjected to no bending except its own weight but for shafting with bending action of pulleys etc. the formula then will be L=",
+        options: ["4 D2/3", "7.0 D 2/3", "5.2 D2/3", "6.0 D2/3"],
+        answer: 2
+    },
+    {
+        question: "155. Which of the phases of steel elements has a face-centered cubic structure?",
+        options: ["pyrite", "austenite", "all of these", "cementite"],
+        answer: 1
+    },
+    {
+        question: "156. Steel spring material is usually hardened to 400 to 500 BHN and the carbon content is in the range of____",
+        options: ["0.50 to 0.90 %", "all of these", "0.45 to 0.48", "0.96 to 0.97"],
+        answer: 0
+    },
+    {
+        question: "157. Principal stresses occur on these plane",
+        options: ["which are subjected to ultimate tension", "which are subjected to maximum compression", "The shearing stress is zero", "which are 45° apart"],
+        answer: 2
     }
 ];
 
