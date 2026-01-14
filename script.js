@@ -428,6 +428,186 @@ const questions = [
         question: "86. It is generally recommended and normal for a designer to add a hunting tooth to evenly distribute the wear on meshing teeth like a 53 teeth gears mesh with 30 teeth pinion. Find the rotation of pinion to mesh with same pair of teeth again",
         options: ["120", "81", "61", "53"],
         answer: 3
+    },
+    {
+        question: "87. The shaft whose torque varies from 2000 to 6000 in lbs has 1 1/2 in in diameter and 60000 psi yield strength. Compute for the shaft mean average stress.",
+        options: ["6036 psi", "6810 psi", "5162 psi", "5550 psi"],
+        answer: 0
+    },
+    {
+        question: "88. The angle made by the helix of the thread (in a straight thread) at the pitch diameter with a plane perpendicular to the axis is called__________.",
+        options: ["lead angle", "truncation", "lead", "angle of thread"],
+        answer: 0
+    },
+    {
+        question: "89. The rule of thumb in journal bearing design; the clearance ratio/clearance should be.",
+        options: ["0.0090", "0.0042", "0.0010", "0.00120"],
+        answer: 2
+    },
+    {
+        question: "90. The moment of inertia of a rectangle whose base is “b” height “h” about its base is",
+        options: ["bh3/4", "bh3/12", "bh3/24", "bh3/3"],
+        answer: 3
+    },
+    {
+        question: "91. Cold rolled shafting is not available in diameter larger than__________",
+        options: ["6 inches", "5 inches", "6 ½ inches", "5 ½ inches"],
+        answer: 1
+    },
+    {
+        question: "92. What power would a spindle 55 mm in diameter transmit at 480 rpm. Stress allowed for short shaft is 59 newtons/mm2",
+        options: ["45.12 kw", "50.61 kw", "45 Hp", "39.21 kw"],
+        answer: 0
+    },
+    {
+        question: "93. The cast iron flywheels are commonly designed with a factor of safety of______",
+        options: ["14 to 15", "10 to 13", "8 to 9", "6 to 12"],
+        answer: 1
+    },
+    {
+        question: "94. A pair of equal and opposite (not collinear) forces that tend cause a rotation of a body",
+        options: ["couple", "centroids", "equilibrium", "vector"],
+        answer: 0
+    },
+    {
+        question: "95. The ratio of the pitch diameter in inches to the number of teeth",
+        options: ["pitch circle", "English module", "module", "pitch diameter"],
+        answer: 1
+    },
+    {
+        question: "96. When the motion is diminished/decreasing instead of increasing is called.",
+        options: ["deceleration", "uniform negative impulse", "retarded motion", "all of these"],
+        answer: 2
+    },
+    {
+        question: "97. _______is a unit or energy?",
+        options: ["ft.-lb.", "hp", "BTU/hr.", "watt"],
+        answer: 0
+    },
+    {
+        question: "98. When high strength and durability are a requirements for choosing gear materials it is preferable to use_________material",
+        options: ["hardened bronze", "steel", "phenolic laminated", "white iron"],
+        answer: 1
+    },
+    {
+        question: "99. _________forces when action are parallel",
+        options: ["couple", "non collinear", "resultant", "non concurrent"],
+        answer: 3
+    },
+    {
+        question: "100. The product of the mass and the velocity of the center of gravity of the body is called.",
+        options: ["linear momentum", "angular impulse", "linear impulse", "angular momentum"],
+        answer: 0
+    },
+    {
+        question: "101. Two parallel shaft connected by pure rolling turn in the same direction and having a speed ratio of 2.75. what is the distance of the two shaft if the smaller cylinder is 22 cm. in diameter.",
+        options: ["16.60 cm", "30.25 cm", "25.25 cm", "19.25 cm"],
+        answer: 3
+    },
+    {
+        question: "102. The distance between similar, equally-spaced tooth surfaces in a given direction and along a given line.",
+        options: ["pitch circle", "pitch plane", "pitch", "pitch diameter"],
+        answer: 2
+    },
+    {
+        question: "103. A drop hammer of 1 ton dead weight capacity is propelled downward by a 12 inch diameter cylinder. At 100 psi air pressure what is the impact velocity if the stroke is 28 inches?",
+        options: ["47.4 ft/sec", "31.6 ft/sec", "15.8 ft/sec", "63.2 ft/sec"],
+        answer: 1
+    },
+    {
+        question: "104. Could be defined as simply push and pull.",
+        options: ["power", "inertia", "work", "force"],
+        answer: 3
+    },
+    {
+        question: "105. Opposite directional forces equal in magnitude and parallel is called_________",
+        options: ["non coplanar", "centroid", "couple", "coplanar"],
+        answer: 2
+    },
+    {
+        question: "106. Quantities such as time , volume and density are completely specified when their magnitude is known is also called",
+        options: ["couple", "resultants", "components", "scalar"],
+        answer: 3
+    },
+    {
+        question: "107. The use of hardened steel for the mating metal gear appears to give the best results and longer operational life. The usual hardness is in the range of-",
+        options: ["over 600 BHN", "300 to 400 BHN", "below 350 BHN", "over 400 BHN"],
+        answer: 0
+    },
+    {
+        question: "108. _______is the product of the resultant of all forces acting on a body and the time.",
+        options: ["linear momentum", "linear impulse", "angular momentum", "all of these"],
+        answer: 1
+    },
+    {
+        question: "109. The separate forces which can be so combined are called",
+        options: ["concurrent forces", "non concurrent forces", "couple", "component forces"],
+        answer: 3
+    },
+    {
+        question: "110. Continuous stretching under load even if the stress is less than the yield point",
+        options: ["plasticity", "elasticity", "creep", "ductility"],
+        answer: 2
+    },
+    {
+        question: "111. The most known lubricants being utilized in whatever category of load and speed are oil, air, grease and dry lubricants like",
+        options: ["bronze", "lead", "silicon", "graphite"],
+        answer: 3
+    },
+    {
+        question: "112. A coupling that allows axial flexibility/movement in the operation. Made of alternate bolting of steel, leather, fabric and/or plastic material into the two flanges",
+        options: ["Flexible disk coupling", "flexing Oldham coupling", "Flexible toroidal spring coupling", "Elastic-material bonded coupling"],
+        answer: 0
+    },
+    {
+        question: "113. It consists of two cranks, a stationary piece called the line of centers and the connecting rod is a",
+        options: ["five-bar linkage", "four-crank braces", "three-crank linkage", "four-bar linkage"],
+        answer: 3
+    },
+    {
+        question: "114. Used to change rotary motion to reciprocating motion____________",
+        options: ["rack gears", "hypoid gears", "Helical gears", "herringbone gears"],
+        answer: 0
+    },
+    {
+        question: "115. The effective face width of a helical gear divided by gear axial pitch",
+        options: ["approach ratio", "Arc of action", "Arc of recess", "Face overlap"],
+        answer: 0
+    },
+    {
+        question: "116. Pitch diameter less the diameter of the roller chain is equal to:",
+        options: ["top land", "bottom diameter", "addendum", "Face overlap"],
+        answer: 1
+    },
+    {
+        question: "117. Generally applied on speed reducer due to large speed ratio:",
+        options: ["bevel gears", "helical gears", "worm gears", "hypoid gears"],
+        answer: 2
+    },
+    {
+        question: "118. If shaft size is specified as-diameter 2.00” max. and 1.99” min. in diameter then the 0.010” could be defined as________",
+        options: ["allowance", "fit", "variance", "tolerance"],
+        answer: 3
+    },
+    {
+        question: "119. A material plane was subjected to a load. When the load was removed the strain disappeared. From the structural change which of the following can be considered about this material?",
+        options: ["it has high modules of elasticity", "it does not follow Hooke’s Law", "it is plastic", "it is elastic"],
+        answer: 3
+    },
+    {
+        question: "120. Helix angle in the range of ______ degree is recommended for wide-face helical gears",
+        options: ["less than 15", "less than 20", "20 to 35", "20 to 22"],
+        answer: 0
+    },
+    {
+        question: "121. A step shaft made of SAE 1117 steel with an ultimate strength of 69.7 ksi. The notch sensitivity factor is 0.983 and 0.00435 is the constant dependent upon the ultimate strength check the radius of the stress raiser.",
+        options: ["0.192", "0.386", "0.25", "0.775"],
+        answer: 2
+    },
+    {
+        question: "122. Difference between maximum material limits of mating parts . Or it is a minimum clearance or maximum interference between parts",
+        options: ["tolerance", "fits", "variance", "allowance"],
+        answer: 3
     }
 ];
 
