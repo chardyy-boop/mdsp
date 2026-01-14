@@ -1353,6 +1353,231 @@ const questions = [
         question: "271. _______forces means when their lines of action can be extended to meet to one point",
         options: ["concurrent", "centroids", "collinear", "resultants"],
         answer: 0
+    },
+    {
+        question: "272. The welded joints permit placing the added metal exactly where needed and produce an integral structure which can develop_____% efficiency on any thickness of section specially for mild steel materials",
+        options: ["95%", "85%", "100%", "90%"],
+        answer: 2
+    },
+    {
+        question: "273. A keyed sprocket deliver a torque of 778 8 Nm thru the shaft of 54 mm OD . The key thickness is 1. 5875 cm and the width is 1.11 cm compute the length of the same key. The permissible stress value of 60 MPa for shear and 90 MPa for tension",
+        options: ["39.12 cm", "4.82 cm", "52.22 cm", "4.32 cm"],
+        answer: 3
+    },
+    {
+        question: "274. Compute the cutting speed in fpm of a workpiece with 2 inches diameter and running at 100 rpm?",
+        options: ["72", "102", "62", "52"],
+        answer: 3
+    },
+    {
+        question: "275. One horsepower is equal to_____________",
+        options: ["556 ft.lb/sec", "748 Nm/sec", "746 joules/sec", "42.4 BTU/min."],
+        answer: 2
+    },
+    {
+        question: "276. Compute the diameter of a solid shaft transmitting 75 Hp at 1800 rpm. The nature of the load and the type of service is such that the allowable Ss based on pure torsion is 6000 psi",
+        options: ["1 7/8”", "2 1/16”", "1 5/16”", "3 1/8”"],
+        answer: 2
+    },
+    {
+        question: "277. Compute the safe wall thickness of a 76.2 cm diameter steel tank. The tank is subjected to 7.33 MPa pressure and the steel material has yield stress of 215.4 MPa. The factor of safety to use is 3",
+        options: ["1 ½ inches", "3.89 cm", "4.09 cm", "3.69 cm"],
+        answer: 1
+    },
+    {
+        question: "278. A foot rule has how many 1/8”?",
+        options: ["96", "48", "120", "108"],
+        answer: 0
+    },
+    {
+        question: "279. An elevator weighing 2000 lbs. is moving vertically upward with an acceleration of 3 ft./sec2. A man standing in said elevator weighs 180 lbs. Compute the tension in the supporting cable under this condition",
+        options: ["2180 lbs", "2191 lbs", "1820 lbs", "2366 lbs"],
+        answer: 3
+    },
+    {
+        question: "280. A watt is equivalent to _________",
+        options: ["42.4 BTU/min.", "1 Nm/sec", "44.20 ft.lb/min.", "all of these"],
+        answer: 1
+    },
+    {
+        question: "281. 50% of ½ is",
+        options: ["1/100", "0.25", "25", "001"],
+        answer: 1
+    },
+    {
+        question: "282. The capsule orbits of the earth 180 km above the surface. In what velocity in m/s necessary for a circular orbit condenser the earth radius at 6400-km and at 9.2 m/sec2?",
+        options: ["8864", "7016", "7780", "8058"],
+        answer: 2
+    },
+    {
+        question: "283. A small countershaft is 1 1/2 inch in diameter and has an allowable stress of 8500 psi. Find the horsepower delivered by the shaft at a speed of 125.7 rad/sec.",
+        options: ["720", "1.4", "13.31", "14.72"],
+        answer: 2
+    },
+    {
+        question: "284. A wheel accelerates from rest with a = 5 radian/sec-sec. Compute how many revolutions made in 4 seconds?",
+        options: ["5.71 rev", "6.36 rev", "7.00 rev", "20.00 rev"],
+        answer: 1
+    },
+    {
+        question: "285. The shaft is subjected to a steady load of 36,000 in lb. at a shear stress of 10,000 psi. Compute the diameter of the said shaft in inches",
+        options: ["1 7/8", "2 ¼", "3", "2 ¾"],
+        answer: 2
+    },
+    {
+        question: "286. What minimum distance can a truck side on a horizontal asphalt road if it is travelling 25 m/s? The coefficient of sliding friction between asphalt and rubber tire is at 0.6. the weight of the truck is 8500 kg.",
+        options: ["44.9", "58.5", "53.2", "63.8"],
+        answer: 2
+    },
+    {
+        question: "287. A Keyed gears deliver a torque of 912.4 Nm thru its shaft of 63.5 mm outside diameter. If the key has thickness of 15.875 mm and width of 11.1125 find the length of the key. Assume thepermissible stress values of 61.2 MPa for shear and tension at 99.8 MPa.",
+        options: ["47.42 mm", "39.72 mm", "42.22 mm", "46.92 mm"],
+        answer: 2
+    },
+    {
+        question: "288. A band brake is to absorb 5 Hp at 200 rpm. The maximum pressure of the lining and drum is 120 psi. the angle of wrap is 3.6 radians the width of the band is 3 inches and f = 0 15. Find the forces at the tight side. The diameter of the drum is at 8 inches",
+        options: ["2680 lbs", "2880 lbs", "3880 lbs", "2980 lbs."],
+        answer: 1
+    },
+    {
+        question: "289. A liquid full bucket is to be rotated in the vertical plane. What minimum angular velocity in radian/sec is needed to keep the liquid no spilling out if the rotating arm is 1.2 meters",
+        options: ["2.26", "25.6", "3.10", "2.86"],
+        answer: 3
+    },
+    {
+        question: "290. Compute the speed a satellite must have to orbit the earth at an elevation of 100 km. Earth’s radius is at 6400 km. Assume no change of gravity with the elevation",
+        options: ["6320 m/s", "7120 m/s", "8740 m/s2", "7920 m/s"],
+        answer: 3
+    },
+    {
+        question: "291. A 16 ft steel lineshaft has no bending action except its own weight. What power in Hp can the shaft deliver at a speed of 200 rpm. Consider that the torsional deflection will not exceed 0.008/ft of length",
+        options: ["13.2", "15.8", "24.4", "14.6"],
+        answer: 3
+    },
+    {
+        question: "292. The torsional deformation of a SAE 1040 steel shaft is to 0.8 in a length of ½ meter. The shear stress is 69 Mpa . Compute the diameter of the shaft in millimeter. Steel modulus of elasticity is 79,300 Mpa or N/mm2",
+        options: ["51", "50", "75", "62"],
+        answer: 3
+    },
+    {
+        question: "293. Compute how many 3/8 inch diameter set screws required to transmit 3 Hp at a shaft speed of 1000 rpm. The shaft diameter is 1 inch",
+        options: ["1 ½", "2", "3", "1"],
+        answer: 1
+    },
+    {
+        question: "294. A pair of gear/pinion of 42 tooth and 18 tooth with a diametral pitch of 0.7874 teeth/cm and the addendum is 0.8/p and dedendum 1/p. The gear pressure angle of 20. Compute the center distance of the pair of gears in meters",
+        options: ["0.5026 m", "0.3426 m", "0.3516 m", "0.4013 m"],
+        answer: 3
+    },
+    {
+        question: "295. Determine the width of a 6 ply rubber belt required for a ventilating fan running at 150 rpm driven from a 12 inch pulley on a 70 Hp at 800 rpm. The center distance between pulley is 12 ft. and the rated belt tension is 78.0 lb/in width",
+        options: ["12”", "8”", "10”", "15”"],
+        answer: 0
+    },
+    {
+        question: "296. Compute for the torsional deflection in degrees of a 110 mm diameter, 1.4 m long shaft subjected to a twisting moment of 3 x 106 N-mm. The torsional modulus of elasticity is 83000 N/mm2",
+        options: ["0.27", "0.31", "0.20", "0.24"],
+        answer: 2
+    },
+    {
+        question: "297. Find the torsional moment (in Newton-mm ) developed when the shaft delivers 20 kw at 200 rpm",
+        options: ["0.85 x 106", "1.0 x 106", "1.20 x 106", "2.10 x 106"],
+        answer: 1
+    },
+    {
+        question: "298. Determine the load in kN on a 25 mm diameter 1200 mm long steel shaft if its maximum elongation exceeds 1mm",
+        options: ["83", "125", "103", "93"],
+        answer: 0
+    },
+    {
+        question: "299. Find the thickness of a metal needed in the semi-spherical end of a cylinder vessel 0.70 meter in diameter subjected to an internal pressure of 2.7 N/mm2. the material is mild carbon steel and tensile stress is 69 N/mm2.",
+        options: ["5.2 mm", "6.02", "7.53 mm", "6.84 mm"],
+        answer: 3
+    },
+    {
+        question: "300. A 102 mm diameter shaft is driven at 3000 rpm by a 300 Hp prime mover. The shaft drives a 121.9 cm diameter chain sprocket having 85% output efficiency. Compute the torque in in-lb developed in the shaft",
+        options: ["5,6000", "7,100", "8,150", "6,300"],
+        answer: 3
+    },
+    {
+        question: "301. Determine the average time to cut by automatic oxy-acetylene (machine) crosswise a 4ft. x 8 ft x 4 in thick steel plate.",
+        options: ["6.85 min.", "318 sec", "10 min", "360 sec"],
+        answer: 3
+    },
+    {
+        question: "302. Compute for the induced/compressive stress, in kPa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80 deg C",
+        options: ["181,816", "242,816", "218,182", "196,560"],
+        answer: 3
+    },
+    {
+        question: "303. A mass weighing 56 lbs. rests on a horizontal surface. The force needed to move along the surface is 20 lbs. determine the coefficient of friction",
+        options: ["0.0", "0.112", "0.36", "0.28"],
+        answer: 2
+    },
+    {
+        question: "304. Determine the time in seconds, to saw a rectangular magnesium bar 5 in. wide and 2 in. thick if the length of cut is 5 in. The power hacksaw does 120 strokes/min and the feed/stroke is 0.127 mm",
+        options: ["189", "500", "99", "20"],
+        answer: 1
+    },
+    {
+        question: "305. A car travels with an initial velocity of 10 m/sec or 36 km/hr. If it is decelerating at rate of 3 m/sec-sec, how far in meters does it travel before stopping?",
+        options: ["17", "21", "19", "15"],
+        answer: 0
+    },
+    {
+        question: "306. Compute for the twisting moment in in-lb developed when the shaft delivers 20Hp at 1200 rpm",
+        options: ["1166", "915", "1050", "945"],
+        answer: 2
+    },
+    {
+        question: "307. In an Oxy-Acetylene manual welding method to weld a 3 ½ ft. long seam in a 0.375” thick steel plate at a consumption rate of 9 ft3/ft for oxygen and 7 ft3/ ft for acetylene. Compute for the total combined gas consumption in ft3",
+        options: ["48", "24.5", "56", "31.5"],
+        answer: 2
+    },
+    {
+        question: "308. A cylinder tank with 10 inches inside diameter contains oxygen gas at 2500 psi. Calculate the required wall thickness in millimeter under stress of 28000 psi",
+        options: ["10.54", "11.34", "10.24", "12.24"],
+        answer: 1
+    },
+    {
+        question: "309. Compute for the load in kN on a 3 cm diameter, 100 cm long steel rod if its maximum elongation exceed 0.12 cm",
+        options: ["178", "196", "148", "287"],
+        answer: 0
+    },
+    {
+        question: "310. A baseball is thrown straight upward with a velocity of 20 m/s . Compute for the time elapsed for the baseball to return. Assume for a zero drag.",
+        options: ["1.84", "2.2", "2.50", "2.04"],
+        answer: 3
+    },
+    {
+        question: "311. Compute for the polar section modulus of an SAE 1060 shafting having a diameter of 3 inches. Use a factor of safety of 2 and design stress at 8000 psi",
+        options: ["4.7", "6.1", "4.2", "5.3"],
+        answer: 3
+    },
+    {
+        question: "312. Find the torsional deflection, in degrees of a solid steel shaft 110 mm OD 1.4 m long subjected to 3.1 x 106 N-mm. The torsional modulus of elasticity is 80,000 N/mm-mm",
+        options: ["0.22", "0.195", "0.28", "0.24"],
+        answer: 0
+    },
+    {
+        question: "313. A short shaft transmits 200 hp at 300 rpm. Determine the diameter of the shaft in inches.",
+        options: ["5", "2", "4", "3"],
+        answer: 3
+    },
+    {
+        question: "314. Forces not on the same plane are called",
+        options: ["Component", "Resolution", "Non-coplanar", "Composition of forces"],
+        answer: 2
+    },
+    {
+        question: "315. The distance between the center of oscillation and the point of suspension is called____",
+        options: ["center of percussion", "center of gravity", "radius of oscillation", "Fix axis"],
+        answer: 2
+    },
+    {
+        question: "316. If the velocity is variable and regularly/constantly increasing the rate of change is called____",
+        options: ["Moment", "Motion", "Constant work", "Acceleration"],
+        answer: 3
     }
 ];
 
