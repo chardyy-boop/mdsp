@@ -24,7 +24,10 @@
         <section id="start-screen" class="screen active">
             <div class="glass-card fade-in">
                 <h1>Engineering Recall</h1>
-                <p>Test your knowledge with 27 specialized engineering problems.</p>
+                <p>Test your knowledge with 86 specialized engineering problems.</p>
+                <div class="stats-preview">
+                    <p>High Score: <span id="start-high-score">0</span>%</p>
+                </div>
                 <button id="start-btn" class="btn primary-btn">Start Quiz</button>
             </div>
         </section>
@@ -56,14 +59,16 @@
         <section id="result-screen" class="screen hidden">
             <div class="glass-card fade-in">
                 <h2>Quiz Complete!</h2>
-                <div class="score-circle">
+                <div id="score-circle-container" class="score-circle">
                     <span id="final-score">0</span>
                     <span class="score-label">%</span>
                 </div>
+                <h3 id="verdict-label" class="verdict">PASSED</h3>
                 <p id="result-message">Great job!</p>
                 <div class="result-stats">
                     <p>Correct: <span id="correct-count">0</span></p>
                     <p>Total: <span id="total-count">0</span></p>
+                    <p>Best: <span id="result-high-score">0</span>%</p>
                 </div>
                 <button id="restart-btn" class="btn primary-btn">Try Again</button>
             </div>
