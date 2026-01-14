@@ -450,11 +450,18 @@ const totalQuestionNum = document.getElementById('total-question-num');
 const progressBar = document.getElementById('progress-bar');
 
 const finalScore = document.getElementById('final-score');
+const scoreCircleContainer = document.getElementById('score-circle-container');
+const verdictLabel = document.getElementById('verdict-label');
 const correctCount = document.getElementById('correct-count');
 const totalCount = document.getElementById('total-count');
 const resultMessage = document.getElementById('result-message');
+const startHighScore = document.getElementById('start-high-score');
+const resultHighScore = document.getElementById('result-high-score');
 
 // Initialize
+const PASSING_GRADE = 70;
+let highScore = localStorage.getItem('engQuizHighScore') || 0;
+startHighScore.innerText = highScore;
 totalQuestionNum.innerText = questions.length;
 
 // Event Listeners
@@ -478,6 +485,10 @@ function startQuiz() {
 
     currentQuestionIndex = 0;
     score = 0;
+    // Fisher-Yates Shuffle for random question order (Optional, but good for drilling)
+    // Uncomment next line to randomize questions
+    // questions.sort(() => Math.random() - 0.5); 
+
     loadQuestion();
 }
 
@@ -538,14 +549,36 @@ function showResults() {
     correctCount.innerText = score;
     totalCount.innerText = questions.length;
 
-    if (percentage >= 90) {
-        resultMessage.innerText = "Excellent! You are a master.";
-    } else if (percentage >= 70) {
-        resultMessage.innerText = "Great job! Keep practicing.";
-    } else if (percentage >= 50) {
-        resultMessage.innerText = "Good effort. Review the weak spots.";
+    // Handle High Score
+    if (percentage > highScore) {
+        highScore = percentage;
+        localStorage.setItem('engQuizHighScore', highScore);
+        resultMessage.innerText = "New High Score! Congratulations!";
     } else {
-        resultMessage.innerText = "Keep studying! You can do better.";
+        if (percentage >= 90) {
+            resultMessage.innerText = "Excellent! You are a master.";
+        } else if (percentage >= 70) {
+            resultMessage.innerText = "Great job! Keep practicing.";
+        } else if (percentage >= 50) {
+            resultMessage.innerText = "Good effort. Review the weak spots.";
+        } else {
+            resultMessage.innerText = "Keep studying! You can do better.";
+        }
+    }
+    resultHighScore.innerText = highScore;
+
+    // Pass/Fail Visuals
+    scoreCircleContainer.classList.remove('pass', 'fail');
+    verdictLabel.classList.remove('pass', 'fail');
+
+    if (percentage >= PASSING_GRADE) {
+        scoreCircleContainer.classList.add('pass');
+        verdictLabel.classList.add('pass');
+        verdictLabel.innerText = "PASSED";
+    } else {
+        scoreCircleContainer.classList.add('fail');
+        verdictLabel.classList.add('fail');
+        verdictLabel.innerText = "FAILED";
     }
 }
 
@@ -555,4 +588,5 @@ function restartQuiz() {
 
     startScreen.classList.remove('hidden');
     startScreen.classList.add('active');
+    startHighScore.innerText = highScore;
 }
