@@ -1578,12 +1578,183 @@ const questions = [
         question: "316. If the velocity is variable and regularly/constantly increasing the rate of change is called____",
         options: ["Moment", "Motion", "Constant work", "Acceleration"],
         answer: 3
+    },
+    {
+        question: "317. ______is a kinematic chain in which one link is considered fixed for the purpose of analysis but motion is possible in other links",
+        options: ["Sprocket chain", "Belting", "Mechanism", "Frame"],
+        answer: 3
+    },
+    {
+        question: "318. __________is one of the rigid members/bodies joined together to form a kinematic chain",
+        options: ["All of these", "Link", "Frame", "Coplanar"],
+        answer: 1
+    },
+    {
+        question: "319. The resultant of a pair of equal forces but opposite in direction is called______",
+        options: ["Non-concurrent", "Concurrent", "Resultant", "Couple"],
+        answer: 3
+    },
+    {
+        question: "320. The helical and herringbone gear teeth cut after heat treatment should have a hardness in the range of 210/300 BHN. The pinion gear teeth hardness, on the other hand ideally/normally should be at______BHN",
+        options: ["250/320", "350/380", "400", "340/350"],
+        answer: 3
+    },
+    {
+        question: "321. As a rule the center to center distance between sprocket should not be less than____ times the diameter of the bigger sprocket and not less than 30 times the pitch nor more than about 50 times to pitch",
+        options: ["2.5", "2", "3", "1.5"],
+        answer: 3
+    },
+    {
+        question: "322. A single forces which produces the same effect upon a mass as two or several forces acting together is called______",
+        options: ["components", "resultant", "composition of forces", "resolution of forces"],
+        answer: 1
+    },
+    {
+        question: "323. All forces in the same plane are called______",
+        options: ["Parallel", "Coplanar", "Couple", "Resultant"],
+        answer: 1
+    },
+    {
+        question: "324. The forces of attraction between two bodies is directly proportional to the product of their masses and inversely proportional to distance square between their centers. This law is ________",
+        options: ["Law of motion", "Law of gravitation", "Newton’s law", "Hook’s law"],
+        answer: 1
+    },
+    {
+        question: "325. Gears are manufactured usually in the following processes: milling, generating, shaving, grinding and ___which is also used.",
+        options: ["Blanking", "Heat treatment", "Molding", "Dinking"],
+        answer: 0
+    },
+    {
+        question: "326. Any object thrown upward will return to earth with the magnitude of the terminal velocity equal to",
+        options: ["50% of the initial velocity", "80% of the initially velocity", "About 90% of the initial velocity", "the initial velocity"],
+        answer: 3
+    },
+    {
+        question: "327. Flat belt that is too tight will induce strain on the bearing and belt________",
+        options: ["result to uneconomical operation", "suffer/shafter", "life will be shortened", "will be sheared/cut"],
+        answer: 2
+    },
+    {
+        question: "328. The resulting cross-sectional area of the tensile test specimen divided by the specimen original area is called________",
+        options: ["% elongation", "impact test", "charpy test", "izod test"],
+        answer: 0
+    },
+    {
+        question: "329. SAE 51xxx belongs to the________ steel family",
+        options: ["chromium", "Carbon", "Manganese", "Nickel"],
+        answer: 0
+    },
+    {
+        question: "330. In itself, it is a lubricant and usually one of the important elements in casting non-ferrous metals like bronze, for example",
+        options: ["Antimony", "Lead", "Zinc", "Babbit"],
+        answer: 1
+    },
+    {
+        question: "331. Gasket material which should avoid hot liquid/steam application.",
+        options: ["Asbestos fiber", "Rubberized", "Wool", "Nylon fiber"],
+        answer: 1
+    },
+    {
+        question: "332. The same material properties all over/direction and at any particular point in a structural member is_____",
+        options: ["Isentropic", "Homogenous", "Isotropic", "All of these"],
+        answer: 2
+    },
+    {
+        question: "333. Arc produced by two tungsten electrodes into which a jet of hydrogen is directed",
+        options: ["Hydrogen lancing", "All of these", "Electro-beam welding", "Atomic hydrogen welding"],
+        answer: 3
+    },
+    {
+        question: "334. What is the carbon content range of SAE 4140 chrome-Moly steel after heat treatment?",
+        options: ["0.30/0.45", "0.38/0.45", "0.30/0.50", "0.38/0.43"],
+        answer: 3
+    },
+    {
+        question: "335. Actual torque ratio of a gear set divided by its gear ratio",
+        options: ["clearance", "contact ratio", "efficiency", "approach ratio"],
+        answer: 2
+    },
+    {
+        question: "336. A low coefficient of expansion, corrosion resistant weak in strength and used for non-ferrous application as an alloying element",
+        options: ["Aluminum", "copper oxide", "copper", "aluminum oxide"],
+        answer: 0
+    },
+    {
+        question: "337. For better mounting of bearing it is preferred to heat the inner ring the range of 200F and___ but never more than______F as overheating might reduce the ring hardness",
+        options: ["280", "250", "300", "320"],
+        answer: 1
+    },
+    {
+        question: "338. For large speed ratio and large sprocket utilized it is recommended cast_______ material since the large sprocket teeth are having fewer engagement.",
+        options: ["alloyed steel", "iron", "malleable iron", "heat treated steel"],
+        answer: 1
+    },
+    {
+        question: "339. Roller bearing is utilized on_______ carrying capacity and is better than ball bearing in this condition",
+        options: ["high temperature load", "heavy load", "low load", "reversing load"],
+        answer: 1
+    },
+    {
+        question: "340. To enhance mechanical properties, fabrication characteristic or any other attributes of steel, some elements are added in melting in specific ranges or minimum aside from carbon and generally termed____",
+        options: ["Bessemer steel", "Alloy steel", "AISI steel", "SAE steel"],
+        answer: 1
+    },
+    {
+        question: "341. Materials having thermal expansion of about 10 times higher than those of metals and has more heat generated during machining is____?",
+        options: ["Aluminum", "Plastic", "Asbestos", "PVC"],
+        answer: 1
+    },
+    {
+        question: "342. To hold to minimum the axial direction of deflection/movement, a separate thrust bearing or pre-loaded bearing capable of absorbing considerable load is required. The type of bearing to use is a_____bearing",
+        options: ["Double row angular contact", "Wide type self-aligning", "Tapered roller bearing", "Deep groove ball"],
+        answer: 0
+    },
+    {
+        question: "343. Pulley made of ______ordinarily is 45 to 55% less in weight and 2.35 to 2.70% less slippage compared with______pulley",
+        options: ["wood/iron", "iron/steel", "steel/iron", "wood/steel"],
+        answer: 2
+    },
+    {
+        question: "344. To avoid scoring in the bearing surface and the shaft due to contamination/absorption of the fine dirt in the bearing during operation/lubrication, the bearing material to apply should have good _____properties",
+        options: ["corrosion resistance confermability", "corrosion resistance", "embeddability", "anti-scoring"],
+        answer: 2
+    },
+    {
+        question: "345. What do impact tests measure?",
+        options: ["plasticity", "toughness", "ductility", "compactness"],
+        answer: 1
+    },
+    {
+        question: "346. Corresponding piping color for alkaline",
+        options: ["red", "violet", "green", "blue"],
+        answer: 1
+    },
+    {
+        question: "347. Type of gear that transmits power at an angle",
+        options: ["bevel", "herringbone", "spur", "helix"],
+        answer: 0
+    },
+    {
+        question: "348. Which of the following gasket material is not used for high temperature steam?",
+        options: ["wool", "asbestos", "plastic nylon", "rubberized"],
+        answer: 3
+    },
+    {
+        question: "349. A plane perpendicular to the gear axis.",
+        options: ["pitch plane", "normal plane", "plane of rotation", "radius of gyration"],
+        answer: 2
+    },
+    {
+        question: "350. Specification of molybdenum alloy",
+        options: ["SAE 3xxx", "SAE 4xxx", "SAE 5xxx", "SAE 6xxx"],
+        answer: 1
     }
 ];
 
 let currentQuestionIndex = 0;
 let score = 0;
 let userAnswers = [];
+let currentQuestions = [];
 
 // DOM Elements
 const startScreen = document.getElementById('start-screen');
@@ -1592,21 +1763,23 @@ const resultScreen = document.getElementById('result-screen');
 const startBtn = document.getElementById('start-btn');
 const nextBtn = document.getElementById('next-btn');
 const restartBtn = document.getElementById('restart-btn');
+const randomizeToggle = document.getElementById('randomize-toggle');
 
 const questionText = document.getElementById('question-text');
 const optionsContainer = document.getElementById('options-container');
 const currentQuestionNum = document.getElementById('current-question-num');
 const totalQuestionNum = document.getElementById('total-question-num');
 const progressBar = document.getElementById('progress-bar');
+const scoreDisplay = document.getElementById('score');
 
 const finalScore = document.getElementById('final-score');
-const scoreCircleContainer = document.getElementById('score-circle-container');
-const verdictLabel = document.getElementById('verdict-label');
+const scoreCircle = document.querySelector('.score-circle');
+const verdictText = document.getElementById('verdict-text');
 const correctCount = document.getElementById('correct-count');
 const totalCount = document.getElementById('total-count');
 const resultMessage = document.getElementById('result-message');
 const startHighScore = document.getElementById('start-high-score');
-const resultHighScore = document.getElementById('result-high-score');
+const resultHighScore = document.getElementById('high-score');
 
 // Initialize
 const PASSING_GRADE = 70;
@@ -1618,7 +1791,7 @@ totalQuestionNum.innerText = questions.length;
 startBtn.addEventListener('click', startQuiz);
 nextBtn.addEventListener('click', () => {
     currentQuestionIndex++;
-    if (currentQuestionIndex < questions.length) {
+    if (currentQuestionIndex < currentQuestions.length) {
         loadQuestion();
     } else {
         showResults();
@@ -1633,23 +1806,28 @@ function startQuiz() {
     quizScreen.classList.remove('hidden');
     quizScreen.classList.add('active');
 
+    // Randomization Logic
+    if (randomizeToggle.checked) {
+        currentQuestions = [...questions].sort(() => Math.random() - 0.5);
+    } else {
+        currentQuestions = [...questions];
+    }
+
     currentQuestionIndex = 0;
     score = 0;
-    // Fisher-Yates Shuffle for random question order (Optional, but good for drilling)
-    // Uncomment next line to randomize questions
-    // questions.sort(() => Math.random() - 0.5); 
+    scoreDisplay.innerText = 0;
 
     loadQuestion();
 }
 
 function loadQuestion() {
-    const q = questions[currentQuestionIndex];
+    const q = currentQuestions[currentQuestionIndex];
     questionText.innerText = q.question;
     optionsContainer.innerHTML = '';
 
     // Update Progress
-    currentQuestionNum.innerText = currentQuestionIndex + 1;
-    const progressPercent = ((currentQuestionIndex) / questions.length) * 100;
+    if (currentQuestionNum) currentQuestionNum.innerText = currentQuestionIndex + 1;
+    const progressPercent = ((currentQuestionIndex) / currentQuestions.length) * 100;
     progressBar.style.width = `${progressPercent}%`;
 
     // Reset Next Button
@@ -1675,6 +1853,7 @@ function selectOption(selectedBtn, selectedIndex, correctIndex) {
     if (selectedIndex === correctIndex) {
         selectedBtn.classList.add('correct');
         score++;
+        scoreDisplay.innerText = score;
     } else {
         selectedBtn.classList.add('wrong');
         // Highlight correct answer
@@ -1683,7 +1862,7 @@ function selectOption(selectedBtn, selectedIndex, correctIndex) {
 
     nextBtn.classList.remove('hidden');
     // Update progress bar to completed state for this step
-    const progressPercent = ((currentQuestionIndex + 1) / questions.length) * 100;
+    const progressPercent = ((currentQuestionIndex + 1) / currentQuestions.length) * 100;
     progressBar.style.width = `${progressPercent}%`;
 }
 
@@ -1694,10 +1873,11 @@ function showResults() {
     resultScreen.classList.remove('hidden');
     resultScreen.classList.add('active');
 
-    const percentage = Math.round((score / questions.length) * 100);
+    const totalQs = currentQuestions.length;
+    const percentage = Math.round((score / totalQs) * 100);
     finalScore.innerText = percentage;
     correctCount.innerText = score;
-    totalCount.innerText = questions.length;
+    totalCount.innerText = totalQs;
 
     // Handle High Score
     if (percentage > highScore) {
@@ -1715,20 +1895,20 @@ function showResults() {
             resultMessage.innerText = "Keep studying! You can do better.";
         }
     }
-    resultHighScore.innerText = highScore;
+    if (resultHighScore) resultHighScore.innerText = highScore;
 
     // Pass/Fail Visuals
-    scoreCircleContainer.classList.remove('pass', 'fail');
-    verdictLabel.classList.remove('pass', 'fail');
+    scoreCircle.classList.remove('pass', 'fail');
+    verdictText.classList.remove('pass', 'fail');
 
     if (percentage >= PASSING_GRADE) {
-        scoreCircleContainer.classList.add('pass');
-        verdictLabel.classList.add('pass');
-        verdictLabel.innerText = "PASSED";
+        scoreCircle.classList.add('pass');
+        verdictText.classList.add('pass');
+        verdictText.innerText = "PASSED";
     } else {
-        scoreCircleContainer.classList.add('fail');
-        verdictLabel.classList.add('fail');
-        verdictLabel.innerText = "FAILED";
+        scoreCircle.classList.add('fail');
+        verdictText.classList.add('fail');
+        verdictText.innerText = "FAILED";
     }
 }
 
