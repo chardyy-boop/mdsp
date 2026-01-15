@@ -404,25 +404,20 @@ input:checked+.toggle-slider::before {
     color: var(--text-primary);
 }
 
-/* Footer */
-.footer-note {
-    position: fixed;
-    bottom: 15px;
-    width: 100%;
-    text-align: center;
-    font-size: 0.85rem;
-    color: rgba(255, 255, 255, 0.4);
-    pointer-events: none;
+/* Footer Note Inside Card */
+.footer-note-inside {
+    margin-top: 1.5rem;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.5);
     font-family: 'Outfit', sans-serif;
     letter-spacing: 0.5px;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-    z-index: 10;
+    text-shadow: none;
 }
 
 /* Mobile Responsive */
 @media (min-width: 768px) {
     .options-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(2, 1fr);
     }
 
     h1 {
