@@ -1774,12 +1774,12 @@ const scoreDisplay = document.getElementById('score');
 
 const finalScore = document.getElementById('final-score');
 const scoreCircle = document.querySelector('.score-circle');
-const verdictText = document.getElementById('verdict-text');
+const verdictText = document.getElementById('verdict-label');
 const correctCount = document.getElementById('correct-count');
 const totalCount = document.getElementById('total-count');
 const resultMessage = document.getElementById('result-message');
 const startHighScore = document.getElementById('start-high-score');
-const resultHighScore = document.getElementById('high-score');
+const resultHighScore = document.getElementById('result-high-score');
 
 // Initialize
 const PASSING_GRADE = 70;
